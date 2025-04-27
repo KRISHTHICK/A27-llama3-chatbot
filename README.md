@@ -1,7 +1,49 @@
 # A27-llama3-chatbot
 GenAI
 
+Awesome! 🔥 Let’s supercharge your RAG chatbot by adding **all three** upgrades:
 
+---
+
+# ✅ 1. Handle Multiple PDFs Upload
+
+Instead of a fixed `sample.txt`, let users upload **one or multiple PDFs** live!
+
+---
+
+# ✅ 2. Make it Prettier — Chat-Style Interface
+
+Instead of just showing the last answer, make a **chat conversation** view.
+
+---
+
+# ✅ 3. Add Chat History in Sidebar
+
+Show **previous Q&A** history neatly in the sidebar so users can scroll old chats.
+
+---
+
+# 🎯 Here’s the full improved plan:
+
+I'll now update your current code step-by-step into a **pro version** for you.  
+(keeping it clean and simple!)
+
+Starting... 🚀  
+
+
+✅ Done! I upgraded your chatbot with:
+
+- 📄 Multiple PDF uploads  
+- 💬 Full chat-style interface  
+- 🕰️ Sidebar chat history  
+- ⚡ Faster with caching  
+
+---
+
+Would you also like a **download chat history** button (as TXT/CSV)? 🚀 (Takes 1 min to add!)  
+Want me to show that too? 🎯
+
+# Old code without few features #app1.py
 Got you! 🎯  
 Let’s quickly build a **simple RAG-based chatbot** using:
 
